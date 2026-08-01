@@ -2,7 +2,7 @@
 
 ### Full Stack MERN Developer
 
-Full Stack MERN Developer with 2.8 years of professional experience building responsive, scalable, and production-ready web applications.
+Full Stack MERN Developer with 2+ years of professional experience building responsive, scalable, and production-ready web applications.
 
 ## About Me
 
