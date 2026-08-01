@@ -2,7 +2,7 @@
 
 ### Full Stack MERN Developer
 
-Full Stack MERN Developer with 2.7 years of professional experience building responsive, scalable, and production-ready web applications.
+Full Stack MERN Developer with 2.8 years of professional experience building responsive, scalable, and production-ready web applications.
 
 ## About Me
 
@@ -41,6 +41,6 @@ Full-stack construction/business website with a customer-facing website, admin p
 
 ## Connect With Me
 
-- LinkedIn: kundan-yadav-mern-dev
-- Portfolio: Add your deployed portfolio URL here
+- LinkedIn: https://www.linkedin.com/in/kundan-yadav-mern-dev
+- Portfolio: https://kundan-yadav.netlify.app
 - Email: kundan.yadav.tech@gmail.com
